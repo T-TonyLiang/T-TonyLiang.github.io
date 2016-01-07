@@ -373,7 +373,7 @@ a:focus {
 .skills-section {
     width: 100%;
     height:auto;
-    padding-top: 100px;
+    padding-top: 90px;
     padding-bottom: 100px;
     color: #625D5D; /* button color 98AFC7*/
     /*background: url(../img/intro-bg.jpg) no-repeat center center scroll;*/
@@ -384,8 +384,16 @@ a:focus {
     -o-background-size: cover;
 }
 
+h1.skills-title {
+    margin: 0 0 25px;
+}
+
+h2.skills-title {
+    margin: 0 0 20px;
+}
+
 .skills-icons{
-    max-height: 125px;
+    max-height: 105px;
 }
 
 #map {
