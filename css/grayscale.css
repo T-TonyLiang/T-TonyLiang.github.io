@@ -208,14 +208,24 @@ a:focus {
     max-width: 280px;
 }
 
-.contact-section
-{
-    background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+.lbd{
+    background: url(../img/bg3.png) no-repeat bottom center scroll;
 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;  
+    width: 100%;
+}
+
+.contact-section
+{
+    /*background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover; */ 
     width: 100%;
 }
 .proj-screenshots
@@ -450,7 +460,7 @@ a:focus {
 
 a.about-a
 {
-    color: #504a4b;
+    color: #3BB9FF;
 }
 
 h1.skills-title {
@@ -458,7 +468,7 @@ h1.skills-title {
 }
 
 h2.skills-title {
-    margin: 0 0 20px;
+    margin: 0 0 30px;
 }
 
 .skills-icons{
@@ -513,6 +523,21 @@ h2.skills-title {
     border: 1px solid #42dca3;
     color: #42dca3;
     background-color: transparent;
+}
+
+.contact-btn
+{
+    border: 1px solid #fff;
+    color: #fff;
+    background-color: transparent;
+}
+
+.contact-btn:hover,
+.contact-btn:focus {
+    border: 1px solid #fff;
+    outline: 0;
+    color: #000;
+    background-color: #fff;
 }
 
 .btn-default:hover,
@@ -606,6 +631,15 @@ img::-moz-selection {
 {
     color:#cd7f32;
 }
+
+#personal-website a{
+    color: #82CAFA;
+}
+
+#land-battle-chess a{
+    color: #82CAFA;
+}
+
 
 .proj-description{
     display: inline-block;
