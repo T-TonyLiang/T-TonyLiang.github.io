@@ -13,7 +13,7 @@ December 2015 - Present
 To create, design and maintain a mobile-friendly website that features my work and what I have to offer as a software engineer.
 
 ###Description:
-This website leverages the Bootstrap framework, and particularily uses the [Grayscale Theme](http://startbootstrap.com/template-overviews/grayscale/) as a basic template. Designed specific custom elements such as well as page layout.
+This website leverages the Bootstrap framework, and particularily uses the [Grayscale Theme](http://startbootstrap.com/template-overviews/grayscale/) as a basic template. Designed website layout, added and customized visual elements on top of template.
 
 ###Current Work:
 Continuing to update information and apply newly learned knowledge to better design the website.
