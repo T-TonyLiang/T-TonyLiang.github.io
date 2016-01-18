@@ -282,7 +282,7 @@ a:focus {
       -o-filter: blur(5px);
       -ms-filter: blur(5px);
       filter: blur(5px);*/
-      background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+      background: url(../img/intro-bg-C.jpg) no-repeat bottom center scroll;
 
       -webkit-background-size: cover;
       -moz-background-size: cover;
